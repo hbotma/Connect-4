@@ -2,7 +2,7 @@
 
 Connect-4 coded in C++ using SFML
 
-To run the code, you can download the .exe (NOT recommended) and andlso.ttf, put them in the same directory, then run the .exe.
+To run the code, you can download the .exe from bin/release (NOT recommended) and andlso.ttf, put them in the same directory, then run the .exe.
 
 I recommend against downloading a .exe from some stranger. It's only a good idea if you just wanna see the game, yolo. It's safer to compile the code yourself.
 
